@@ -1,12 +1,12 @@
-81d9de9c8adf54524aabe906a7cefa3e *DESCRIPTION
+680ff2f1f850be5d4a43f196db5248f4 *DESCRIPTION
 96a6f4135e111f2037ae1d796bd9f83c *NAMESPACE
 711bec02e8b600229b6c3b67998443d6 *R/Comment.R
 5980718d67589718e3f6611957883526 *R/interpolAux.R
-4412eadf8f3f2df1b18b451160ab8bfa *R/sysdata.rda
+50ce68d162139ebbb9ea710a8cf07ef4 *R/sysdata.rda
 684f5dd0d6328447d61ed811f92bfd04 *inst/AddMaterial/interpolation/WriteUp-Interpolators.txt
 836f1ad0ec0db44250b83cfcdbb6ca8c *inst/AddMaterial/interpolation/interpolationscripts.R
 3c10fe38addda3f8c8086ed9d2c79211 *inst/CITATION
 bcce5833d08df6d86e3af6dd736b00d5 *inst/NEWS
 a290f396ccbe7783309dd65a33ebf504 *inst/TOBEDONE
-86a10c80621b1587c095eb1a534dffee *man/0RobRDA-package.Rd
+5ec096c62d3f1d4a901071c67f1247ee *man/0RobRDA-package.Rd
 2bc5a68c66ee2000713bedb57d0f3cb9 *man/internal-interpolate.Rd
