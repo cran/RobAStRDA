@@ -1,6 +1,6 @@
 Package: RobAStRDA
-Version: 1.2.1
-Date: 2024-01-28
+Version: 1.2.2
+Date: 2025-01-15
 Title: Interpolation Grids for Packages of the 'RobASt' - Family of
         Packages
 Description: Includes 'sysdata.rda' file for packages of the 'RobASt' - family of packages; is
@@ -22,12 +22,12 @@ SysDataCompression: xz
 ByteCompile: yes
 License: LGPL-3
 URL: https://r-forge.r-project.org/projects/robast/
-LastChangedDate: {$LastChangedDate: 2019-03-12 09:36:30 +0100 (Di, 12
-        Mrz 2019) $}
-LastChangedRevision: {$LastChangedRevision: 1203 $}
-VCS/SVNRevision: 1261
+LastChangedDate: {$LastChangedDate: 2024-01-28 21:11:52 +0100 (So, 28
+        Jan 2024) $}
+LastChangedRevision: {$LastChangedRevision: 1261 $}
+VCS/SVNRevision: 1332
 NeedsCompilation: no
-Packaged: 2024-01-28 19:29:43 UTC; ruckdesc
+Packaged: 2025-01-15 13:50:55 UTC; ruckdesc
 Author: Matthias Kohl [aut, cph],
   Bernhard Spangl [ctb] (contributed smoothed grid values of the Lagrange
     multipliers),
@@ -45,4 +45,4 @@ Author: Matthias Kohl [aut, cph],
   Peter Ruckdeschel [cre, cph, aut]
 Maintainer: Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>
 Repository: CRAN
-Date/Publication: 2024-01-29 10:00:05 UTC
+Date/Publication: 2025-01-15 14:30:12 UTC
